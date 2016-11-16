@@ -1,14 +1,16 @@
 ##Germany
 ## population
 
-
-## capital
+## capital: Berlin
 
  
-## official language
+## official language: German
 
 
-## interesting trivia
+## interesting trivia: 
+
+More stuff about Germany.
+
 
 
 
