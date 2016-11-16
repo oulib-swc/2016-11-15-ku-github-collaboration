@@ -3,7 +3,7 @@
 
 
 ## capital
-
+Hanoi
  
 ## official language
 
