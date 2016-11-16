@@ -1,6 +1,6 @@
 ##Monaco
 ## population
-
+Small
 
 ## capital
 
@@ -10,5 +10,6 @@
 
 ## interesting trivia
 
+Most famous for Formula One racing and gambling. 
 
 
