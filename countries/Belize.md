@@ -1,14 +1,13 @@
 ##Belize
-## population
+330,000 population
 
 
-## capital
+Belmopan capital
 
  
-## official language
+English and Mayan official language
 
-
-## interesting trivia
+There's lots of cool places to snorkel! interesting trivia
 
 
 
