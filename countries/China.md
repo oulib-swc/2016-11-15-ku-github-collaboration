@@ -1,14 +1,14 @@
 ##China
 ## population
+1.4 billion?
 
-
-## capital
-
+#i# capita
+Beijing
  
 ## official language
-
+Mandarin
 
 ## interesting trivia
-
+Amrican Chinese food is not Chinese Food!
 
 
